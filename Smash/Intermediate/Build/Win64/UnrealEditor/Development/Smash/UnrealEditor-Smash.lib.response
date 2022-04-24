@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Smash.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"K:\UE5\UE5Test\Smash\Intermediate\Build\Win64\SmashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"K:\UE5\UE5Test\Smash\Intermediate\Build\Win64\UnrealEditor\Development\Smash\Smash.cpp.obj"
+"K:\UE5\UE5Test\Smash\Intermediate\Build\Win64\UnrealEditor\Development\Smash\SmashCharacter.cpp.obj"
+"K:\UE5\UE5Test\Smash\Intermediate\Build\Win64\UnrealEditor\Development\Smash\SmashGameMode.cpp.obj"
+"K:\UE5\UE5Test\Smash\Intermediate\Build\Win64\UnrealEditor\Development\Smash\Smash.init.gen.cpp.obj"
+"K:\UE5\UE5Test\Smash\Intermediate\Build\Win64\UnrealEditor\Development\Smash\SmashCharacter.gen.cpp.obj"
+"K:\UE5\UE5Test\Smash\Intermediate\Build\Win64\UnrealEditor\Development\Smash\SmashGameMode.gen.cpp.obj"
+"K:\UE5\UE5Test\Smash\Intermediate\Build\Win64\UnrealEditor\Development\Smash\Default.rc2.res"
+/OUT:"K:\UE5\UE5Test\Smash\Intermediate\Build\Win64\UnrealEditor\Development\Smash\UnrealEditor-Smash.lib"

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"K:\\UE5\\UE5Test\\Smash\\Source\\Smash\\Smash.Build.cs",
+		"K:\\UE5\\UE5Test\\Smash\\Source\\Smash.Target.cs",
+		"K:\\UE5\\UE5Test\\Smash\\Source\\SmashEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

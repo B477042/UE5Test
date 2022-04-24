@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "k:\\ue5\\ue5test\\smash\\intermediate\\build\\win64\\unrealeditor\\inc\\smash\\smashgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "k:\\ue5\\ue5test\\smash\\intermediate\\build\\win64\\smasheditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "k:\\ue5\\ue5test\\smash\\intermediate\\build\\win64\\unrealeditor\\development\\smash\\definitions.smash.h",
+            "k:\\ue5\\ue5test\\smash\\source\\smash\\smashgamemode.h",
+            "k:\\programs\\ue_5.0\\ue_5.0\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "k:\\programs\\ue_5.0\\ue_5.0\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "k:\\programs\\ue_5.0\\ue_5.0\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "k:\\programs\\ue_5.0\\ue_5.0\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "k:\\ue5\\ue5test\\smash\\intermediate\\build\\win64\\unrealeditor\\inc\\smash\\smashgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
